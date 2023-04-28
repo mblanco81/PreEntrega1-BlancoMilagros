@@ -1,0 +1,1 @@
+let montoCredito=prompt("Ingrese el monto del crédito a adquirir");
